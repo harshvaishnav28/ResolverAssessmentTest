@@ -1,0 +1,8 @@
+com\resolver\qa\pages\Test1Page.class
+com\resolver\qa\pages\Test6Page.class
+com\resolver\qa\pages\Test5Page.class
+com\resolver\qa\util\TestUtil.class
+com\resolver\qa\pages\Test2Page.class
+com\resolver\qa\pages\Test3Page.class
+com\resolver\qa\base\TestBase.class
+com\resolver\qa\pages\Test4Page.class

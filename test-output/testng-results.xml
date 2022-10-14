@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T14:12:57 EDT" name="Resolver Assessment Test" finished-at="2022-10-14T14:13:34 EDT" duration-ms="36757">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T14:12:57 EDT" name="Free CRM App Test Cases" finished-at="2022-10-14T14:13:34 EDT" duration-ms="36757">
+      <class name="com.resolver.qa.testcases.Number4Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number4Test@7188af83]" started-at="2022-10-14T14:13:18 EDT" name="setUp" finished-at="2022-10-14T14:13:20 EDT" duration-ms="1699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyButton1Test()[pri:0, instance:com.resolver.qa.testcases.Number4Test@7188af83]" started-at="2022-10-14T14:13:20 EDT" name="verifyButton1Test" finished-at="2022-10-14T14:13:20 EDT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButton1Test -->
+        <test-method signature="verifyButton2Test()[pri:0, instance:com.resolver.qa.testcases.Number4Test@7188af83]" started-at="2022-10-14T14:13:20 EDT" name="verifyButton2Test" finished-at="2022-10-14T14:13:20 EDT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButton2Test -->
+        <test-method signature="scrolltoTest4Test()[pri:1, instance:com.resolver.qa.testcases.Number4Test@7188af83]" started-at="2022-10-14T14:13:20 EDT" name="scrolltoTest4Test" finished-at="2022-10-14T14:13:20 EDT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolltoTest4Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number4Test@7188af83]" started-at="2022-10-14T14:13:20 EDT" name="tearDown" finished-at="2022-10-14T14:13:21 EDT" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resolver.qa.testcases.Number4Test -->
+      <class name="com.resolver.qa.testcases.Number5Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number5Test@6be968ce]" started-at="2022-10-14T14:13:21 EDT" name="setUp" finished-at="2022-10-14T14:13:22 EDT" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="scrolltoTest5Test()[pri:1, instance:com.resolver.qa.testcases.Number5Test@6be968ce]" started-at="2022-10-14T14:13:22 EDT" name="scrolltoTest5Test" finished-at="2022-10-14T14:13:23 EDT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolltoTest5Test -->
+        <test-method signature="verifyButtonPresentTest()[pri:2, instance:com.resolver.qa.testcases.Number5Test@6be968ce]" started-at="2022-10-14T14:13:23 EDT" name="verifyButtonPresentTest" finished-at="2022-10-14T14:13:23 EDT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButtonPresentTest -->
+        <test-method signature="verifySuccessMessageTest()[pri:3, instance:com.resolver.qa.testcases.Number5Test@6be968ce]" started-at="2022-10-14T14:13:23 EDT" name="verifySuccessMessageTest" finished-at="2022-10-14T14:13:31 EDT" duration-ms="8006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessMessageTest -->
+        <test-method signature="verifyButtonIsDisabledTest()[pri:4, instance:com.resolver.qa.testcases.Number5Test@6be968ce]" started-at="2022-10-14T14:13:31 EDT" name="verifyButtonIsDisabledTest" finished-at="2022-10-14T14:13:31 EDT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButtonIsDisabledTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number5Test@6be968ce]" started-at="2022-10-14T14:13:31 EDT" name="tearDown" finished-at="2022-10-14T14:13:31 EDT" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resolver.qa.testcases.Number5Test -->
+      <class name="com.resolver.qa.testcases.Number6Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number6Test@7c37508a]" started-at="2022-10-14T14:13:31 EDT" name="setUp" finished-at="2022-10-14T14:13:33 EDT" duration-ms="1776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getCellValueTest()[pri:0, instance:com.resolver.qa.testcases.Number6Test@7c37508a]" started-at="2022-10-14T14:13:33 EDT" name="getCellValueTest" finished-at="2022-10-14T14:13:33 EDT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCellValueTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number6Test@7c37508a]" started-at="2022-10-14T14:13:33 EDT" name="tearDown" finished-at="2022-10-14T14:13:34 EDT" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resolver.qa.testcases.Number6Test -->
+      <class name="com.resolver.qa.testcases.Number2Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:09 EDT" name="setUp" finished-at="2022-10-14T14:13:11 EDT" duration-ms="1710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNumberOfListItemTest()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:11 EDT" name="verifyNumberOfListItemTest" finished-at="2022-10-14T14:13:11 EDT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNumberOfListItemTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:11 EDT" name="tearDown" finished-at="2022-10-14T14:13:11 EDT" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:11 EDT" name="setUp" finished-at="2022-10-14T14:13:13 EDT" duration-ms="1574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySecondListBadgeValueTest()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:13 EDT" name="verifySecondListBadgeValueTest" finished-at="2022-10-14T14:13:13 EDT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySecondListBadgeValueTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:13 EDT" name="tearDown" finished-at="2022-10-14T14:13:14 EDT" duration-ms="616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:14 EDT" name="setUp" finished-at="2022-10-14T14:13:15 EDT" duration-ms="1637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySecondListItemValueTest()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:15 EDT" name="verifySecondListItemValueTest" finished-at="2022-10-14T14:13:15 EDT" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySecondListItemValueTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number2Test@496bc455]" started-at="2022-10-14T14:13:15 EDT" name="tearDown" finished-at="2022-10-14T14:13:16 EDT" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resolver.qa.testcases.Number2Test -->
+      <class name="com.resolver.qa.testcases.Number3Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number3Test@59402b8f]" started-at="2022-10-14T14:13:16 EDT" name="setUp" finished-at="2022-10-14T14:13:18 EDT" duration-ms="1807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="scrolltoTest3Test()[pri:1, instance:com.resolver.qa.testcases.Number3Test@59402b8f]" started-at="2022-10-14T14:13:18 EDT" name="scrolltoTest3Test" finished-at="2022-10-14T14:13:18 EDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolltoTest3Test -->
+        <test-method signature="verifyDropDownOptionTest()[pri:2, instance:com.resolver.qa.testcases.Number3Test@59402b8f]" started-at="2022-10-14T14:13:18 EDT" name="verifyDropDownOptionTest" finished-at="2022-10-14T14:13:18 EDT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDropDownOptionTest -->
+        <test-method signature="selectOption3Test()[pri:3, instance:com.resolver.qa.testcases.Number3Test@59402b8f]" started-at="2022-10-14T14:13:18 EDT" name="selectOption3Test" finished-at="2022-10-14T14:13:18 EDT" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectOption3Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number3Test@59402b8f]" started-at="2022-10-14T14:13:18 EDT" name="tearDown" finished-at="2022-10-14T14:13:18 EDT" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resolver.qa.testcases.Number3Test -->
+      <class name="com.resolver.qa.testcases.Number1Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:12:57 EDT" name="setUp" finished-at="2022-10-14T14:13:00 EDT" duration-ms="3491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="emailFieldTest()[pri:1, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:00 EDT" name="emailFieldTest" finished-at="2022-10-14T14:13:00 EDT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailFieldTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:00 EDT" name="tearDown" finished-at="2022-10-14T14:13:01 EDT" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:01 EDT" name="setUp" finished-at="2022-10-14T14:13:03 EDT" duration-ms="1651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="passwordFieldTest()[pri:2, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:03 EDT" name="passwordFieldTest" finished-at="2022-10-14T14:13:03 EDT" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordFieldTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:03 EDT" name="tearDown" finished-at="2022-10-14T14:13:03 EDT" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:03 EDT" name="setUp" finished-at="2022-10-14T14:13:06 EDT" duration-ms="2508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signInButtonTest()[pri:3, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:06 EDT" name="signInButtonTest" finished-at="2022-10-14T14:13:06 EDT" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:06 EDT" name="tearDown" finished-at="2022-10-14T14:13:07 EDT" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:07 EDT" name="setUp" finished-at="2022-10-14T14:13:08 EDT" duration-ms="1604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="enterCredentialsTest()[pri:4, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:08 EDT" name="enterCredentialsTest" finished-at="2022-10-14T14:13:08 EDT" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentialsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.resolver.qa.testcases.Number1Test@795509d9]" started-at="2022-10-14T14:13:08 EDT" name="tearDown" finished-at="2022-10-14T14:13:09 EDT" duration-ms="615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resolver.qa.testcases.Number1Test -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- Resolver Assessment Test -->
+</testng-results>
